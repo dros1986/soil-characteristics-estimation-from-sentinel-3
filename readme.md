@@ -4,9 +4,9 @@ This repo is the implementation of the paper:
 
 **Estimation of soil characteristics from multispectral sentinel-3 imagery and DEM derivatives using machine learning**
 <br>
-Piccoli F., Peracchi M., Schettini R., Napoletano P.
+Piccoli F., Peracchi M., Napoletano P.
 <br>
-Under review at Computers and Geosciences
+Under review at MDPI Sensors
 
 
 ## Documentation
